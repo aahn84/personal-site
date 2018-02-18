@@ -1,7 +1,7 @@
 var cards = [
 {
   id: 0,
-  media: "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/22829143_10107205639552478_681157761861362062_o.jpg?oh=901476845e99f2c96c7731d6c8668b27&oe=5A7BE25D",
+  media: "/images/personal-site-home.jpg",
   title: "About Me",
   alt: "Menu-About Me",
   subtitle: "Old News",
@@ -19,7 +19,7 @@ var cards = [
 
 {
   id: 2,
-  media: "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/22154710_10107136239116508_2638049624306936034_n.jpg?oh=c1925c773e57aa7c82ae6b94d3c37f57&oe=5A7EF35F",
+  media: "/images/pepper seahawks.jpg",
   title: "Bonus!",
   alt: "Menu-Bonus!",
   subtitle: "Because, Why Not?",
